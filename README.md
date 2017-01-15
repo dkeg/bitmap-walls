@@ -4,7 +4,7 @@
 
 #### Creating a repo to help preserve the find
 
-Set with xsetroot. Examples:
-`xsetroot -bitmap [selection].xbm`
-`xsetroot -bitmap [selection].xbm -bg "color" -fg "color"`
+Set with xsetroot. Examples:  
+`xsetroot -bitmap [selection].xbm`  
+`xsetroot -bitmap [selection].xbm -bg "color" -fg "color"`  
 `xsetroot -bitmap [selection].xbm "$(xrdb -query|awk '/\*color8:/ {print $2})" -fg "$(xrdb -query|awk '/\*color7:/ {print $2}')"`
