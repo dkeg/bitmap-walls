@@ -1,6 +1,8 @@
 ## Classic patterned bitmap tiled wallpapers
 
-#### Recognition goes to /u/bdrum from this post (https://www.reddit.com/r/unixporn/comments/5o29pt/found_a_bunch_of_bitmaps_for_xsetroot_wallpapers/)
+#### Recognition goes to [Anthony Thyssen](http://www.ict.griffith.edu.au/anthony/icons/) for maintaining these bitmaps for 25 years. These images (and more) are for now also available on his old page.
+
+###### rediscovered by /u/bdrum in [this reddit post](https://www.reddit.com/r/unixporn/comments/5o29pt/found_a_bunch_of_bitmaps_for_xsetroot_wallpapers/)
 
 #### Creating a repo to help preserve the find
 
