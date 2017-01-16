@@ -1,5 +1,7 @@
 ## Classic patterned bitmap tiled wallpapers
 
+![preview](preview.png)
+
 #### Recognition goes to /u/bdrum from this post (https://www.reddit.com/r/unixporn/comments/5o29pt/found_a_bunch_of_bitmaps_for_xsetroot_wallpapers/)
 
 #### Creating a repo to help preserve the find
