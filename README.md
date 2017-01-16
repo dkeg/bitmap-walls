@@ -12,4 +12,6 @@ Set with xsetroot. Examples:
  - Add colors  
 `xsetroot -bitmap [selection].xbm -bg "color" -fg "color"`  
  - Leverage current colors from xrdb  
-`xsetroot -bitmap [selection].xbm "$(xrdb -query|awk '/\*color8:/ {print $2})" -fg "$(xrdb -query|awk '/\*color7:/ {print $2}')"`
+`xsetroot -bitmap [selection].xbm "$(xrdb -query|awk '/\*color8:/ {print $2})" -fg "$(xrdb -query|awk '/\*color7:/ {print $2}')"`  
+
+![preview](preview.png)
