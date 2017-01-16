@@ -14,6 +14,6 @@ Set with xsetroot. Examples:
  - Leverage current colors from xrdb  
 `xsetroot -bitmap [selection].xbm "$(xrdb -query|awk '/\*color8:/ {print $2})" -fg "$(xrdb -query|awk '/\*color7:/ {print $2}')"`  
 
-##### Previews
+##### Pattern Previews
 
 ![preview](preview.png)
