@@ -1,0 +1,4 @@
+#define diagonal-lines.svg_width 6
+#define diagonal-lines.svg_height 6
+static char diagonal-lines.svg_bits[] = {
+  0x30, 0x18, 0x0C, 0x06, 0x03, 0x21, };

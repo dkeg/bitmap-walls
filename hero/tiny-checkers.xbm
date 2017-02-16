@@ -1,0 +1,4 @@
+#define tiny-checkers.svg_width 8
+#define tiny-checkers.svg_height 8
+static char tiny-checkers.svg_bits[] = {
+  0x0F, 0x0F, 0x0F, 0x0F, 0xF0, 0xF0, 0xF0, 0xF0, };
