@@ -1,0 +1,4 @@
+#define stripes.svg_width 40
+#define stripes.svg_height 1
+static char stripes.svg_bits[] = {
+  0xFF, 0xFF, 0x0F, 0x00, 0x00, };
